@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "zip-code-info"
   gem.homepage = "http://github.com/monicao/zip-code-info"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Looks up the state and city of the Sectional Center Facility for a given zip code.}
+  gem.description = %Q{The data has been collected from wikipedia and stored in a yml file. This gem does not use an external service.}
   gem.email = "monica.olinescu@gmail.com"
   gem.authors = ["Monica Olinescu"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,

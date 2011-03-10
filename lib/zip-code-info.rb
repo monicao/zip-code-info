@@ -10,12 +10,12 @@ class ZipCodeInfo
     @data = YAML.load(File.open(File.join(File.dirname(__FILE__), '..', 'data', 'data.yml')))
   end 
   
-  def find_city(code = "")
+  def scf_city_for(code = "")
     return false unless assign_and_validate_code(code)
     @data[code_to_key][:city]
   end
   
-  def find_state(code = "")
+  def state_for(code = "")
     return false unless assign_and_validate_code(code)
     @data[code_to_key][:state]
   end
