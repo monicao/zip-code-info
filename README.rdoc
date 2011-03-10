@@ -1,6 +1,29 @@
 = zip-code-info
 
-Description goes here.
+This gem returns the state and city for a given zip code. It does not use an external service.
+
+The zip code data has been taken from http://en.wikipedia.org/wiki/ZIP_code_prefixes
+
+Please be aware that sometimes the state that a zip code is bound to for USPS is different from the actual state the zip code is in. There are plans to provide both states.
+
+== Usage
+
+In your Gemfile
+
+	gem zip-code-info
+
+The code runs out of a Singleton class. Right now you can call these two methods.
+
+	ZipCodeInfo.instance.find_city "99100"
+	#=> Spokane
+
+	ZipCodeInfo.instance.find_state "99100"
+	#=> WA
+
+== TODO 
+
+* Ability to return the timezone information for a zip code.
+* Provide the state as well as the actual state. 
 
 == Contributing to zip-code-info
  

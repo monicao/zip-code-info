@@ -1,0 +1,2794 @@
+--- 
+"005": 
+  :state: NY
+  :city: Mid-Island
+"006": 
+  :state: PR
+  :city: San Juan
+"007": 
+  :state: PR
+  :city: San Juan
+008: 
+  :state: VI
+  :city: Virgin Islands
+009: 
+  :state: PR
+  :city: San Juan
+"010": 
+  :state: MA
+  :city: Springfield
+"011": 
+  :state: MA
+  :city: Springfield
+"012": 
+  :state: MA
+  :city: Pittsfield
+"013": 
+  :state: MA
+  :city: Springfield
+"014": 
+  :state: MA
+  :city: Worcester
+"015": 
+  :state: MA
+  :city: Worcester
+"016": 
+  :state: MA
+  :city: Worcester
+"017": 
+  :state: MA
+  :city: Worcester
+018: 
+  :state: MA
+  :city: Mdl'sex-Essex
+019: 
+  :state: MA
+  :city: Mdl'sex-Essex
+"020": 
+  :state: MA
+  :city: Brockton
+"021": 
+  :state: MA
+  :city: Boston
+"022": 
+  :state: MA
+  :city: Boston
+"023": 
+  :state: MA
+  :city: Brockton
+"024": 
+  :state: MA
+  :city: Boston
+"025": 
+  :state: MA
+  :city: Cape Cod
+"026": 
+  :state: MA
+  :city: Cape Cod
+"027": 
+  :state: MA
+  :city: New Bedford
+028: 
+  :state: RI
+  :city: Providence
+029: 
+  :state: RI
+  :city: Providence
+"030": 
+  :state: NH
+  :city: Manchester
+"031": 
+  :state: NH
+  :city: Manchester
+"032": 
+  :state: NH
+  :city: Manchester
+"033": 
+  :state: NH
+  :city: Concord
+"034": 
+  :state: NH
+  :city: Manchester
+"035": 
+  :state: NH
+  :city: W.R. Jctn. (VT)
+"036": 
+  :state: NH
+  :city: W.R. Jctn. (VT)
+"037": 
+  :state: NH
+  :city: W.R. Jctn. (VT)
+038: 
+  :state: NH
+  :city: Portsmouth
+039: 
+  :state: ME
+  :city: Portsm'th (NH)
+"040": 
+  :state: ME
+  :city: Portland
+"041": 
+  :state: ME
+  :city: Portland
+"042": 
+  :state: ME
+  :city: Portland
+"043": 
+  :state: ME
+  :city: Portland
+"044": 
+  :state: ME
+  :city: Bangor
+"045": 
+  :state: ME
+  :city: Portland
+"046": 
+  :state: ME
+  :city: Bangor
+"047": 
+  :state: ME
+  :city: Bangor
+048: 
+  :state: ME
+  :city: Portland
+049: 
+  :state: ME
+  :city: Bangor
+"050": 
+  :state: VT
+  :city: W.R. Junction
+"051": 
+  :state: VT
+  :city: W.R. Junction
+"052": 
+  :state: VT
+  :city: W.R. Junction
+"053": 
+  :state: VT
+  :city: W.R. Junction
+"054": 
+  :state: VT
+  :city: Burlington
+"055": 
+  :state: MA
+  :city: Mdl'sex-Essex
+"056": 
+  :state: VT
+  :city: Burlington
+"057": 
+  :state: VT
+  :city: W.R. Junction
+058: 
+  :state: VT
+  :city: W.R. Junction
+059: 
+  :state: VT
+  :city: W.R. Junction
+"060": 
+  :state: CT
+  :city: Hartford
+"061": 
+  :state: CT
+  :city: Hartford
+"062": 
+  :state: CT
+  :city: Hartford
+"063": 
+  :state: CT
+  :city: Southern Area
+"064": 
+  :state: CT
+  :city: Southern Area
+"065": 
+  :state: CT
+  :city: New Haven
+"066": 
+  :state: CT
+  :city: Bridgeport
+"067": 
+  :state: CT
+  :city: Waterbury
+068: 
+  :state: CT
+  :city: Stamford
+069: 
+  :state: CT
+  :city: Stamford
+"070": 
+  :state: NJ
+  :city: Newark
+"071": 
+  :state: NJ
+  :city: Newark
+"072": 
+  :state: NJ
+  :city: Elizabeth
+"073": 
+  :state: NJ
+  :city: Jersey City
+"074": 
+  :state: NJ
+  :city: Paterson
+"075": 
+  :state: NJ
+  :city: Paterson
+"076": 
+  :state: NJ
+  :city: Hackensack
+"077": 
+  :state: NJ
+  :city: Monmouth
+078: 
+  :state: NJ
+  :city: Western Area
+079: 
+  :state: NJ
+  :city: Western Area
+080: 
+  :state: NJ
+  :city: Southern Area
+081: 
+  :state: NJ
+  :city: Camden
+082: 
+  :state: NJ
+  :city: Southern Area
+083: 
+  :state: NJ
+  :city: Southern Area
+084: 
+  :state: NJ
+  :city: Atlantic City
+085: 
+  :state: NJ
+  :city: Trenton
+086: 
+  :state: NJ
+  :city: Trenton
+087: 
+  :state: NJ
+  :city: Monmouth
+088: 
+  :state: NJ
+  :city: Kilmer
+089: 
+  :state: NJ
+  :city: New Brunswick
+090: 
+  :state: AE
+  :city: Military
+091: 
+  :state: AE
+  :city: Military
+092: 
+  :state: AE
+  :city: Military
+093: 
+  :state: AE
+  :city: Military
+094: 
+  :state: AE
+  :city: Military
+095: 
+  :state: AE
+  :city: Military
+096: 
+  :state: AE
+  :city: Military
+097: 
+  :state: AE
+  :city: Military
+098: 
+  :state: AE
+  :city: Military
+"100": 
+  :state: NY
+  :city: New York City
+"101": 
+  :state: NY
+  :city: New York City
+"102": 
+  :state: NY
+  :city: New York City
+"103": 
+  :state: NY
+  :city: Staten Island
+"104": 
+  :state: NY
+  :city: The Bronx
+"105": 
+  :state: NY
+  :city: Westchester
+"106": 
+  :state: NY
+  :city: White Plains
+"107": 
+  :state: NY
+  :city: Yonkers
+"108": 
+  :state: NY
+  :city: New Rochelle
+"109": 
+  :state: NY
+  :city: Rockland
+"110": 
+  :state: NY
+  :city: Queens &West Nassau
+"111": 
+  :state: NY
+  :city: Long Island City
+"112": 
+  :state: NY
+  :city: Brooklyn
+"113": 
+  :state: NY
+  :city: Flushing
+"114": 
+  :state: NY
+  :city: Jamaica
+"115": 
+  :state: NY
+  :city: West Nassau
+"116": 
+  :state: NY
+  :city: Far Rockaway
+"117": 
+  :state: NY
+  :city: Mid-Island
+"118": 
+  :state: NY
+  :city: Hicksville
+"119": 
+  :state: NY
+  :city: Mid-Island
+"120": 
+  :state: NY
+  :city: Albany
+"121": 
+  :state: NY
+  :city: Albany
+"122": 
+  :state: NY
+  :city: Albany
+"123": 
+  :state: NY
+  :city: Schenectady
+"124": 
+  :state: NY
+  :city: Mid-Hudson
+"125": 
+  :state: NY
+  :city: Mid-Hudson
+"126": 
+  :state: NY
+  :city: Poughkeepsie
+"127": 
+  :state: NY
+  :city: Mid-Hudson
+"128": 
+  :state: NY
+  :city: Glens Falls
+"129": 
+  :state: NY
+  :city: Plattsburgh
+"130": 
+  :state: NY
+  :city: Syracuse
+"131": 
+  :state: NY
+  :city: Syracuse
+"132": 
+  :state: NY
+  :city: Syracuse
+"133": 
+  :state: NY
+  :city: Utica
+"134": 
+  :state: NY
+  :city: Utica
+"135": 
+  :state: NY
+  :city: Utica
+"136": 
+  :state: NY
+  :city: Watertown
+"137": 
+  :state: NY
+  :city: Binghamton
+"138": 
+  :state: NY
+  :city: Binghamton
+"139": 
+  :state: NY
+  :city: Binghamton
+"140": 
+  :state: NY
+  :city: Buffalo
+"141": 
+  :state: NY
+  :city: Buffalo
+"142": 
+  :state: NY
+  :city: Buffalo
+"143": 
+  :state: NY
+  :city: Niagara Falls
+"144": 
+  :state: NY
+  :city: Rochester
+"145": 
+  :state: NY
+  :city: Rochester
+"146": 
+  :state: NY
+  :city: Rochester
+"147": 
+  :state: NY
+  :city: Jamestown
+"148": 
+  :state: NY
+  :city: Elmira
+"149": 
+  :state: NY
+  :city: Elmira
+"150": 
+  :state: PA
+  :city: Pittsburgh
+"151": 
+  :state: PA
+  :city: Pittsburgh
+"152": 
+  :state: PA
+  :city: Pittsburgh
+"153": 
+  :state: PA
+  :city: Pittsburgh
+"154": 
+  :state: PA
+  :city: Pittsburgh
+"155": 
+  :state: PA
+  :city: Johnstown
+"156": 
+  :state: PA
+  :city: Greensburg
+"157": 
+  :state: PA
+  :city: Johnstown
+"158": 
+  :state: PA
+  :city: Du Bois
+"159": 
+  :state: PA
+  :city: Johnstown
+"160": 
+  :state: PA
+  :city: New Castle
+"161": 
+  :state: PA
+  :city: New Castle
+"162": 
+  :state: PA
+  :city: New Castle
+"163": 
+  :state: PA
+  :city: Oil City
+"164": 
+  :state: PA
+  :city: Erie
+"165": 
+  :state: PA
+  :city: Erie
+"166": 
+  :state: PA
+  :city: Altoona
+"167": 
+  :state: PA
+  :city: Bradford
+"168": 
+  :state: PA
+  :city: Altoona
+"169": 
+  :state: PA
+  :city: Williamsport
+"170": 
+  :state: PA
+  :city: Harrisburg
+"171": 
+  :state: PA
+  :city: Harrisburg
+"172": 
+  :state: PA
+  :city: Harrisburg
+"173": 
+  :state: PA
+  :city: Lancaster
+"174": 
+  :state: PA
+  :city: York
+"175": 
+  :state: PA
+  :city: Lancaster
+"176": 
+  :state: PA
+  :city: Lancaster
+"177": 
+  :state: PA
+  :city: Williamsport
+"178": 
+  :state: PA
+  :city: Harrisburg
+"179": 
+  :state: PA
+  :city: Reading
+"180": 
+  :state: PA
+  :city: Lehigh Valley
+"181": 
+  :state: PA
+  :city: Allentown
+"182": 
+  :state: PA
+  :city: Wilkes-Barre
+"183": 
+  :state: PA
+  :city: Lehigh Valley
+"184": 
+  :state: PA
+  :city: Scranton
+"185": 
+  :state: PA
+  :city: Scranton
+"186": 
+  :state: PA
+  :city: Wilkes-Barre
+"187": 
+  :state: PA
+  :city: Wilkes-Barre
+"188": 
+  :state: PA
+  :city: Scranton
+"189": 
+  :state: PA
+  :city: Southeast Area
+"190": 
+  :state: PA
+  :city: Philadelphia
+"191": 
+  :state: PA
+  :city: Philadelphia
+"192": 
+  :state: PA
+  :city: Philadelphia
+"193": 
+  :state: PA
+  :city: Southeast Area
+"194": 
+  :state: PA
+  :city: Southeast Area
+"195": 
+  :state: PA
+  :city: Reading
+"196": 
+  :state: PA
+  :city: Reading
+"197": 
+  :state: DE
+  :city: Wilmington
+"198": 
+  :state: DE
+  :city: Wilmington
+"199": 
+  :state: DE
+  :city: Wilmington
+"200": 
+  :state: DC
+  :city: Washington
+"201": 
+  :state: VA
+  :city: Dulles
+"202": 
+  :state: DC
+  :city: Washington
+"203": 
+  :state: DC
+  :city: Washington
+"204": 
+  :state: DC
+  :city: Washington
+"205": 
+  :state: DC
+  :city: Washington
+"206": 
+  :state: MD
+  :city: Southern Area
+"207": 
+  :state: MD
+  :city: Southern Area
+"208": 
+  :state: MD
+  :city: Suburban Area
+"209": 
+  :state: MD
+  :city: Silver Spring
+"210": 
+  :state: MD
+  :city: Linthicum
+"211": 
+  :state: MD
+  :city: Linthicum
+"212": 
+  :state: MD
+  :city: Baltimore
+"214": 
+  :state: MD
+  :city: Annapolis
+"215": 
+  :state: MD
+  :city: Cumberland
+"216": 
+  :state: MD
+  :city: Eastern Shore
+"217": 
+  :state: MD
+  :city: Frederick
+"218": 
+  :state: MD
+  :city: Salisbury
+"219": 
+  :state: MD
+  :city: Baltimore
+"220": 
+  :state: VA
+  :city: Northern Area
+"221": 
+  :state: VA
+  :city: Northern Area
+"222": 
+  :state: VA
+  :city: Arlington
+"223": 
+  :state: VA
+  :city: Alexandria
+"224": 
+  :state: VA
+  :city: Fredericksburg
+"225": 
+  :state: VA
+  :city: Fredericksburg
+"226": 
+  :state: VA
+  :city: Winchester
+"227": 
+  :state: VA
+  :city: Culpeper
+"228": 
+  :state: VA
+  :city: Charlottesville
+"229": 
+  :state: VA
+  :city: Charlottesville
+"230": 
+  :state: VA
+  :city: Richmond
+"231": 
+  :state: VA
+  :city: Richmond
+"232": 
+  :state: VA
+  :city: Richmond
+"233": 
+  :state: VA
+  :city: Norfolk
+"234": 
+  :state: VA
+  :city: Norfolk
+"235": 
+  :state: VA
+  :city: Norfolk
+"236": 
+  :state: VA
+  :city: Norfolk
+"237": 
+  :state: VA
+  :city: Portsmouth
+"238": 
+  :state: VA
+  :city: Richmond
+"239": 
+  :state: VA
+  :city: Farmville
+"240": 
+  :state: VA
+  :city: Roanoke
+"241": 
+  :state: VA
+  :city: Roanoke
+"242": 
+  :state: VA
+  :city: Bristol
+"243": 
+  :state: VA
+  :city: Roanoke
+"244": 
+  :state: VA
+  :city: Charlottesville
+"245": 
+  :state: VA
+  :city: Lynchburg
+"246": 
+  :state: VA
+  :city: Bluefield (WV)
+"247": 
+  :state: WV
+  :city: Bluefield
+"248": 
+  :state: WV
+  :city: Bluefield
+"249": 
+  :state: WV
+  :city: Lewisburg
+"250": 
+  :state: WV
+  :city: Charleston
+"251": 
+  :state: WV
+  :city: Charleston
+"252": 
+  :state: WV
+  :city: Charleston
+"253": 
+  :state: WV
+  :city: Charleston
+"254": 
+  :state: WV
+  :city: Martinsburg
+"255": 
+  :state: WV
+  :city: Huntington
+"256": 
+  :state: WV
+  :city: Huntington
+"257": 
+  :state: WV
+  :city: Huntington
+"258": 
+  :state: WV
+  :city: Beckley
+"259": 
+  :state: WV
+  :city: Beckley
+"260": 
+  :state: WV
+  :city: Wheeling
+"261": 
+  :state: WV
+  :city: Parkersburg
+"262": 
+  :state: WV
+  :city: Clarksburg
+"263": 
+  :state: WV
+  :city: Clarksburg
+"264": 
+  :state: WV
+  :city: Clarksburg
+"265": 
+  :state: WV
+  :city: Clarksburg
+"266": 
+  :state: WV
+  :city: Gassaway
+"267": 
+  :state: WV
+  :city: Cumb'l'nd (MD)
+"268": 
+  :state: WV
+  :city: Petersburg
+"270": 
+  :state: NC
+  :city: Greensboro
+"271": 
+  :state: NC
+  :city: Winston-Salem
+"272": 
+  :state: NC
+  :city: Greensboro
+"273": 
+  :state: NC
+  :city: Greensboro
+"274": 
+  :state: NC
+  :city: Greensboro
+"275": 
+  :state: NC
+  :city: Raleigh
+"276": 
+  :state: NC
+  :city: Raleigh
+"277": 
+  :state: NC
+  :city: Durham
+"278": 
+  :state: NC
+  :city: Rocky Mount
+"279": 
+  :state: NC
+  :city: Rocky Mount
+"280": 
+  :state: NC
+  :city: Charlotte
+"281": 
+  :state: NC
+  :city: Charlotte
+"282": 
+  :state: NC
+  :city: Charlotte
+"283": 
+  :state: NC
+  :city: Fayetteville
+"284": 
+  :state: NC
+  :city: Fayetteville
+"285": 
+  :state: NC
+  :city: Kinston
+"286": 
+  :state: NC
+  :city: Hickory
+"287": 
+  :state: NC
+  :city: Asheville
+"288": 
+  :state: NC
+  :city: Asheville
+"289": 
+  :state: NC
+  :city: Asheville
+"290": 
+  :state: SC
+  :city: Columbia
+"291": 
+  :state: SC
+  :city: Columbia
+"292": 
+  :state: SC
+  :city: Columbia
+"293": 
+  :state: SC
+  :city: Spartanburg
+"294": 
+  :state: SC
+  :city: Charleston
+"295": 
+  :state: SC
+  :city: Florence
+"296": 
+  :state: SC
+  :city: Greenville
+"297": 
+  :state: SC
+  :city: Charlotte (NC)
+"298": 
+  :state: SC
+  :city: Augusta (GA)
+"299": 
+  :state: SC
+  :city: Savannah (GA)
+"300": 
+  :state: GA
+  :city: Atlanta
+"301": 
+  :state: GA
+  :city: Atlanta
+"302": 
+  :state: GA
+  :city: Atlanta
+"303": 
+  :state: GA
+  :city: Atlanta
+"304": 
+  :state: GA
+  :city: Swainsboro
+"305": 
+  :state: GA
+  :city: Gainesville
+"306": 
+  :state: GA
+  :city: Athens
+"307": 
+  :state: GA
+  :city: Chatt'n'ga (TN)
+"308": 
+  :state: GA
+  :city: Augusta
+"309": 
+  :state: GA
+  :city: Augusta
+"310": 
+  :state: GA
+  :city: Macon
+"311": 
+  :state: GA
+  :city: Atlanta
+"312": 
+  :state: GA
+  :city: Macon
+"313": 
+  :state: GA
+  :city: Savannah
+"314": 
+  :state: GA
+  :city: Savannah
+"315": 
+  :state: GA
+  :city: Waycross
+"316": 
+  :state: GA
+  :city: Valdosta
+"317": 
+  :state: GA
+  :city: Albany
+"318": 
+  :state: GA
+  :city: Columbus
+"319": 
+  :state: GA
+  :city: Columbus
+"320": 
+  :state: FL
+  :city: Jacksonville
+"321": 
+  :state: FL
+  :city: Daytona Beach
+"322": 
+  :state: FL
+  :city: Jacksonville
+"323": 
+  :state: FL
+  :city: Tallahassee
+"324": 
+  :state: FL
+  :city: Panama City
+"325": 
+  :state: FL
+  :city: Pensacola
+"326": 
+  :state: FL
+  :city: Gainesville
+"327": 
+  :state: FL
+  :city: Mid-State
+"328": 
+  :state: FL
+  :city: Orlando
+"329": 
+  :state: FL
+  :city: Orlando
+"330": 
+  :state: FL
+  :city: Southern Area
+"331": 
+  :state: FL
+  :city: Miami
+"332": 
+  :state: FL
+  :city: Miami
+"333": 
+  :state: FL
+  :city: Fort Lauderdale
+"334": 
+  :state: FL
+  :city: W. Palm Beach
+"335": 
+  :state: FL
+  :city: Tampa
+"336": 
+  :state: FL
+  :city: Tampa
+"337": 
+  :state: FL
+  :city: St. Petersburg
+"338": 
+  :state: FL
+  :city: Lakeland
+"339": 
+  :state: FL
+  :city: Fort Myers
+"340": 
+  :state: AA
+  :city: Military
+"341": 
+  :state: FL
+  :city: Fort Myers
+"342": 
+  :state: FL
+  :city: Manasota
+"344": 
+  :state: FL
+  :city: Gainesville
+"346": 
+  :state: FL
+  :city: Tampa
+"347": 
+  :state: FL
+  :city: Orlando
+"349": 
+  :state: FL
+  :city: W. Palm Beach
+"350": 
+  :state: AL
+  :city: Birmingham
+"351": 
+  :state: AL
+  :city: Birmingham
+"352": 
+  :state: AL
+  :city: Birmingham
+"354": 
+  :state: AL
+  :city: Tuscaloosa
+"355": 
+  :state: AL
+  :city: Birmingham
+"356": 
+  :state: AL
+  :city: Huntsville
+"357": 
+  :state: AL
+  :city: Huntsville
+"358": 
+  :state: AL
+  :city: Huntsville
+"359": 
+  :state: AL
+  :city: Birmingham
+"360": 
+  :state: AL
+  :city: Montgomery
+"361": 
+  :state: AL
+  :city: Montgomery
+"362": 
+  :state: AL
+  :city: Anniston
+"363": 
+  :state: AL
+  :city: Dothan
+"364": 
+  :state: AL
+  :city: Evergreen
+"365": 
+  :state: AL
+  :city: Mobile
+"366": 
+  :state: AL
+  :city: Mobile
+"367": 
+  :state: AL
+  :city: Montgomery
+"368": 
+  :state: AL
+  :city: Montgomery
+"369": 
+  :state: AL
+  :city: Meridian (MS)
+"370": 
+  :state: TN
+  :city: Nashville
+"371": 
+  :state: TN
+  :city: Nashville
+"372": 
+  :state: TN
+  :city: Nashville
+"373": 
+  :state: TN
+  :city: Chattanooga
+"374": 
+  :state: TN
+  :city: Chattanooga
+"375": 
+  :state: TN
+  :city: Memphis
+"376": 
+  :state: TN
+  :city: Johnson City
+"377": 
+  :state: TN
+  :city: Knoxville
+"378": 
+  :state: TN
+  :city: Knoxville
+"379": 
+  :state: TN
+  :city: Knoxville
+"380": 
+  :state: TN
+  :city: Memphis
+"381": 
+  :state: TN
+  :city: Memphis
+"382": 
+  :state: TN
+  :city: McKenzie
+"383": 
+  :state: TN
+  :city: Jackson
+"384": 
+  :state: TN
+  :city: Columbia
+"385": 
+  :state: TN
+  :city: Cookeville
+"386": 
+  :state: MS
+  :city: Memphis (TN)
+"387": 
+  :state: MS
+  :city: Greenville
+"388": 
+  :state: MS
+  :city: Tupelo
+"389": 
+  :state: MS
+  :city: Grenada
+"390": 
+  :state: MS
+  :city: Jackson
+"391": 
+  :state: MS
+  :city: Jackson
+"392": 
+  :state: MS
+  :city: Jackson
+"393": 
+  :state: MS
+  :city: Meridian
+"394": 
+  :state: MS
+  :city: Hattiesburg
+"395": 
+  :state: MS
+  :city: Gulfport
+"396": 
+  :state: MS
+  :city: McComb
+"397": 
+  :state: MS
+  :city: Columbus
+"398": 
+  :state: GA
+  :city: Albany
+"399": 
+  :state: GA
+  :city: Atlanta
+"400": 
+  :state: KY
+  :city: Louisville
+"401": 
+  :state: KY
+  :city: Louisville
+"402": 
+  :state: KY
+  :city: Louisville
+"403": 
+  :state: KY
+  :city: Lexington
+"404": 
+  :state: KY
+  :city: Lexington
+"405": 
+  :state: KY
+  :city: Lexington
+"406": 
+  :state: KY
+  :city: Frankfort
+"407": 
+  :state: KY
+  :city: London
+"408": 
+  :state: KY
+  :city: London
+"409": 
+  :state: KY
+  :city: London
+"410": 
+  :state: KY
+  :city: Cincinnati (OH)
+"411": 
+  :state: KY
+  :city: Ashland
+"412": 
+  :state: KY
+  :city: Ashland
+"413": 
+  :state: KY
+  :city: Campton
+"414": 
+  :state: KY
+  :city: Campton
+"415": 
+  :state: KY
+  :city: Pikeville
+"416": 
+  :state: KY
+  :city: Pikeville
+"417": 
+  :state: KY
+  :city: Hazard
+"418": 
+  :state: KY
+  :city: Hazard
+"420": 
+  :state: KY
+  :city: Paducah
+"421": 
+  :state: KY
+  :city: Bowling Green
+"422": 
+  :state: KY
+  :city: Bowling Green
+"423": 
+  :state: KY
+  :city: Owensboro
+"424": 
+  :state: KY
+  :city: Evansville (IN)
+"425": 
+  :state: KY
+  :city: Somerset
+"426": 
+  :state: KY
+  :city: Somerset
+"427": 
+  :state: KY
+  :city: Elizabethtown
+"430": 
+  :state: OH
+  :city: Columbus
+"431": 
+  :state: OH
+  :city: Columbus
+"432": 
+  :state: OH
+  :city: Columbus
+"433": 
+  :state: OH
+  :city: Columbus
+"434": 
+  :state: OH
+  :city: Toledo
+"435": 
+  :state: OH
+  :city: Toledo
+"436": 
+  :state: OH
+  :city: Toledo
+"437": 
+  :state: OH
+  :city: Zanesville
+"438": 
+  :state: OH
+  :city: Zanesville
+"439": 
+  :state: OH
+  :city: Steubenville
+"440": 
+  :state: OH
+  :city: Cleveland
+"441": 
+  :state: OH
+  :city: Cleveland
+"442": 
+  :state: OH
+  :city: Akron
+"443": 
+  :state: OH
+  :city: Akron
+"444": 
+  :state: OH
+  :city: Youngstown
+"445": 
+  :state: OH
+  :city: Youngstown
+"446": 
+  :state: OH
+  :city: Canton
+"447": 
+  :state: OH
+  :city: Canton
+"448": 
+  :state: OH
+  :city: Mansfield
+"449": 
+  :state: OH
+  :city: Mansfield
+"450": 
+  :state: OH
+  :city: Cincinnati
+"451": 
+  :state: OH
+  :city: Cincinnati
+"452": 
+  :state: OH
+  :city: Cincinnati
+"453": 
+  :state: OH
+  :city: Dayton
+"454": 
+  :state: OH
+  :city: Dayton
+"455": 
+  :state: OH
+  :city: Springfield
+"456": 
+  :state: OH
+  :city: Chillicothe
+"457": 
+  :state: OH
+  :city: Athens
+"458": 
+  :state: OH
+  :city: Lima
+"459": 
+  :state: OH
+  :city: Cincinnati
+"460": 
+  :state: IN
+  :city: Indianapolis
+"461": 
+  :state: IN
+  :city: Indianapolis
+"462": 
+  :state: IN
+  :city: Indianapolis
+"463": 
+  :state: IN
+  :city: Gary
+"464": 
+  :state: IN
+  :city: Gary
+"465": 
+  :state: IN
+  :city: South Bend
+"466": 
+  :state: IN
+  :city: South Bend
+"467": 
+  :state: IN
+  :city: Fort Wayne
+"468": 
+  :state: IN
+  :city: Fort Wayne
+"469": 
+  :state: IN
+  :city: Kokomo
+"470": 
+  :state: IN
+  :city: Cincinnati (OH)
+"471": 
+  :state: IN
+  :city: Louisville (KY)
+"472": 
+  :state: IN
+  :city: Columbus
+"473": 
+  :state: IN
+  :city: Muncie
+"474": 
+  :state: IN
+  :city: Bloomington
+"475": 
+  :state: IN
+  :city: Terre Haute
+"476": 
+  :state: IN
+  :city: Evansville
+"477": 
+  :state: IN
+  :city: Evansville
+"478": 
+  :state: IN
+  :city: Terre Haute
+"479": 
+  :state: IN
+  :city: Lafayette
+"480": 
+  :state: MI
+  :city: Royal Oak
+"481": 
+  :state: MI
+  :city: Detroit
+"482": 
+  :state: MI
+  :city: Detroit
+"483": 
+  :state: MI
+  :city: Royal Oak
+"484": 
+  :state: MI
+  :city: Flint
+"485": 
+  :state: MI
+  :city: Flint
+"486": 
+  :state: MI
+  :city: Saginaw
+"487": 
+  :state: MI
+  :city: Saginaw
+"488": 
+  :state: MI
+  :city: Lansing
+"489": 
+  :state: MI
+  :city: Lansing
+"490": 
+  :state: MI
+  :city: Kalamazoo
+"491": 
+  :state: MI
+  :city: Kalamazoo
+"492": 
+  :state: MI
+  :city: Jackson
+"493": 
+  :state: MI
+  :city: Grand Rapids
+"494": 
+  :state: MI
+  :city: Grand Rapids
+"495": 
+  :state: MI
+  :city: Grand Rapids
+"496": 
+  :state: MI
+  :city: Traverse City
+"497": 
+  :state: MI
+  :city: Gaylord
+"498": 
+  :state: MI
+  :city: Iron Mountain
+"499": 
+  :state: MI
+  :city: Iron Mountain
+"500": 
+  :state: IA
+  :city: Des Moines
+"501": 
+  :state: IA
+  :city: Des Moines
+"502": 
+  :state: IA
+  :city: Des Moines
+"503": 
+  :state: IA
+  :city: Des Moines
+"504": 
+  :state: IA
+  :city: Mason City
+"505": 
+  :state: IA
+  :city: Fort Dodge
+"506": 
+  :state: IA
+  :city: Waterloo
+"507": 
+  :state: IA
+  :city: Waterloo
+"508": 
+  :state: IA
+  :city: Creston
+"509": 
+  :state: IA
+  :city: Des Moines
+"510": 
+  :state: IA
+  :city: Sioux City
+"511": 
+  :state: IA
+  :city: Sioux City
+"512": 
+  :state: IA
+  :city: Sheldon
+"513": 
+  :state: IA
+  :city: Spencer
+"514": 
+  :state: IA
+  :city: Carroll
+"515": 
+  :state: IA
+  :city: Omaha (NE)
+"516": 
+  :state: IA
+  :city: Shenandoah
+"520": 
+  :state: IA
+  :city: Dubuque
+"521": 
+  :state: IA
+  :city: Decorah
+"522": 
+  :state: IA
+  :city: Cedar Rapids
+"523": 
+  :state: IA
+  :city: Cedar Rapids
+"524": 
+  :state: IA
+  :city: Cedar Rapids
+"525": 
+  :state: IA
+  :city: Ottumwa
+"526": 
+  :state: IA
+  :city: Burlington
+"527": 
+  :state: IA
+  :city: Rock Island (IL)
+"528": 
+  :state: IA
+  :city: Davenport
+"530": 
+  :state: WI
+  :city: Milwaukee
+"531": 
+  :state: WI
+  :city: Milwaukee
+"532": 
+  :state: WI
+  :city: Milwaukee
+"534": 
+  :state: WI
+  :city: Racine
+"535": 
+  :state: WI
+  :city: Madison
+"537": 
+  :state: WI
+  :city: Madison
+"538": 
+  :state: WI
+  :city: Madison
+"539": 
+  :state: WI
+  :city: Portage
+"540": 
+  :state: WI
+  :city: Saint Paul (MN)
+"541": 
+  :state: WI
+  :city: Green Bay
+"542": 
+  :state: WI
+  :city: Green Bay
+"543": 
+  :state: WI
+  :city: Green Bay
+"544": 
+  :state: WI
+  :city: Wausau
+"545": 
+  :state: WI
+  :city: Rhinelander
+"546": 
+  :state: WI
+  :city: La Crosse
+"547": 
+  :state: WI
+  :city: Eau Claire
+"548": 
+  :state: WI
+  :city: Spooner
+"549": 
+  :state: WI
+  :city: Oshkosh
+"550": 
+  :state: MN
+  :city: Saint Paul
+"551": 
+  :state: MN
+  :city: Saint Paul
+"553": 
+  :state: MN
+  :city: Minneapolis
+"554": 
+  :state: MN
+  :city: Minneapolis
+"555": 
+  :state: MN
+  :city: Minneapolis
+"556": 
+  :state: MN
+  :city: North Shore
+"557": 
+  :state: MN
+  :city: Arrowhead region
+"558": 
+  :state: MN
+  :city: Duluth
+"559": 
+  :state: MN
+  :city: Rochester
+"560": 
+  :state: MN
+  :city: Mankato
+"561": 
+  :state: MN
+  :city: Windom
+"562": 
+  :state: MN
+  :city: Willmar
+"563": 
+  :state: MN
+  :city: Saint Cloud
+"564": 
+  :state: MN
+  :city: Brainerd
+"565": 
+  :state: MN
+  :city: Detroit Lakes
+"566": 
+  :state: MN
+  :city: Bemidji
+"567": 
+  :state: MN
+  :city: Thief River Falls
+"569": 
+  :state: DC
+  :city: Washington
+"570": 
+  :state: SD
+  :city: Sioux Falls
+"571": 
+  :state: SD
+  :city: Sioux Falls
+"572": 
+  :state: SD
+  :city: Watertown
+"573": 
+  :state: SD
+  :city: Mitchell
+"574": 
+  :state: SD
+  :city: Aberdeen
+"575": 
+  :state: SD
+  :city: Pierre
+"576": 
+  :state: SD
+  :city: Mobridge
+"577": 
+  :state: SD
+  :city: Rapid City
+"580": 
+  :state: ND
+  :city: Fargo
+"581": 
+  :state: ND
+  :city: Fargo
+"582": 
+  :state: ND
+  :city: Grand Forks
+"583": 
+  :state: ND
+  :city: Devils Lake
+"584": 
+  :state: ND
+  :city: Jamestown
+"585": 
+  :state: ND
+  :city: Bismarck
+"586": 
+  :state: ND
+  :city: Dickinson
+"587": 
+  :state: ND
+  :city: Minot
+"588": 
+  :state: ND
+  :city: Williston
+"590": 
+  :state: MT
+  :city: Billings
+"591": 
+  :state: MT
+  :city: Billings
+"592": 
+  :state: MT
+  :city: Wolf Point
+"593": 
+  :state: MT
+  :city: Miles City
+"594": 
+  :state: MT
+  :city: Great Falls
+"595": 
+  :state: MT
+  :city: Havre
+"596": 
+  :state: MT
+  :city: Helena
+"597": 
+  :state: MT
+  :city: Butte
+"598": 
+  :state: MT
+  :city: Missoula
+"599": 
+  :state: MT
+  :city: Kalispell
+"600": 
+  :state: IL
+  :city: Palatine
+"601": 
+  :state: IL
+  :city: Carol Stream
+"602": 
+  :state: IL
+  :city: Evanston
+"603": 
+  :state: IL
+  :city: Oak Park
+"604": 
+  :state: IL
+  :city: Chicago
+"605": 
+  :state: IL
+  :city: Fox Valley
+"606": 
+  :state: IL
+  :city: Chicago
+"607": 
+  :state: IL
+  :city: Chicago
+"608": 
+  :state: IL
+  :city: Chicago
+"609": 
+  :state: IL
+  :city: Kankakee
+"610": 
+  :state: IL
+  :city: Rockford
+"611": 
+  :state: IL
+  :city: Rockford
+"612": 
+  :state: IL
+  :city: Rock Island
+"613": 
+  :state: IL
+  :city: La Salle
+"614": 
+  :state: IL
+  :city: Galesburg
+"615": 
+  :state: IL
+  :city: Peoria
+"616": 
+  :state: IL
+  :city: Peoria
+"617": 
+  :state: IL
+  :city: Bloomington
+"618": 
+  :state: IL
+  :city: Champaign
+"619": 
+  :state: IL
+  :city: Champaign
+"620": 
+  :state: IL
+  :city: St. Louis (MO)
+"622": 
+  :state: IL
+  :city: St. Louis (MO)
+"623": 
+  :state: IL
+  :city: Quincy
+"624": 
+  :state: IL
+  :city: Effingham
+"625": 
+  :state: IL
+  :city: Springfield
+"626": 
+  :state: IL
+  :city: Springfield
+"627": 
+  :state: IL
+  :city: Springfield
+"628": 
+  :state: IL
+  :city: Centralia
+"629": 
+  :state: IL
+  :city: Carbondale
+"630": 
+  :state: MO
+  :city: Saint Louis
+"631": 
+  :state: MO
+  :city: Saint Louis
+"633": 
+  :state: MO
+  :city: Saint Louis
+"634": 
+  :state: MO
+  :city: Quincy (IL)
+"635": 
+  :state: MO
+  :city: Quincy (IL)
+"636": 
+  :state: MO
+  :city: Cape Girardeau
+"637": 
+  :state: MO
+  :city: Cape Girardeau
+"638": 
+  :state: MO
+  :city: Cape Girardeau
+"639": 
+  :state: MO
+  :city: Cape Girardeau
+"640": 
+  :state: MO
+  :city: Kansas City
+"641": 
+  :state: MO
+  :city: Kansas City
+"644": 
+  :state: MO
+  :city: Saint Joseph
+"645": 
+  :state: MO
+  :city: Saint Joseph
+"646": 
+  :state: MO
+  :city: Chillicothe
+"647": 
+  :state: MO
+  :city: Harrisonville
+"648": 
+  :state: MO
+  :city: Springfield
+"649": 
+  :state: MO
+  :city: Kansas City
+"650": 
+  :state: MO
+  :city: Columbia
+"651": 
+  :state: MO
+  :city: Columbia
+"652": 
+  :state: MO
+  :city: Columbia
+"653": 
+  :state: MO
+  :city: Columbia
+"654": 
+  :state: MO
+  :city: Springfield
+"655": 
+  :state: MO
+  :city: Springfield
+"656": 
+  :state: MO
+  :city: Springfield
+"657": 
+  :state: MO
+  :city: Springfield
+"658": 
+  :state: MO
+  :city: Springfield
+"660": 
+  :state: KS
+  :city: Kansas City
+"661": 
+  :state: KS
+  :city: Kansas City
+"662": 
+  :state: KS
+  :city: Shawnee Mission
+"664": 
+  :state: KS
+  :city: Topeka
+"665": 
+  :state: KS
+  :city: Topeka
+"666": 
+  :state: KS
+  :city: Topeka
+"667": 
+  :state: KS
+  :city: Fort Scott
+"668": 
+  :state: KS
+  :city: Topeka
+"669": 
+  :state: KS
+  :city: Salina
+"670": 
+  :state: KS
+  :city: Wichita
+"671": 
+  :state: KS
+  :city: Wichita
+"672": 
+  :state: KS
+  :city: Wichita
+"673": 
+  :state: KS
+  :city: Independence
+"674": 
+  :state: KS
+  :city: Salina
+"675": 
+  :state: KS
+  :city: Hutchinson
+"676": 
+  :state: KS
+  :city: Hays
+"677": 
+  :state: KS
+  :city: Colby
+"678": 
+  :state: KS
+  :city: Dodge City
+"679": 
+  :state: KS
+  :city: Liberal
+"680": 
+  :state: NE
+  :city: Omaha
+"681": 
+  :state: NE
+  :city: Omaha
+"683": 
+  :state: NE
+  :city: Lincoln
+"684": 
+  :state: NE
+  :city: Lincoln
+"685": 
+  :state: NE
+  :city: Lincoln
+"686": 
+  :state: NE
+  :city: Norfolk
+"687": 
+  :state: NE
+  :city: Norfolk
+"688": 
+  :state: NE
+  :city: Grand Island
+"689": 
+  :state: NE
+  :city: Grand Island
+"690": 
+  :state: NE
+  :city: McCook
+"691": 
+  :state: NE
+  :city: North Platte
+"692": 
+  :state: NE
+  :city: Valentine
+"693": 
+  :state: NE
+  :city: Alliance
+"700": 
+  :state: LA
+  :city: Metairie
+"701": 
+  :state: LA
+  :city: New Orleans
+"703": 
+  :state: LA
+  :city: Houma
+"704": 
+  :state: LA
+  :city: Mandeville
+"705": 
+  :state: LA
+  :city: Lafayette
+"706": 
+  :state: LA
+  :city: Lake Charles
+"707": 
+  :state: LA
+  :city: Baton Rouge
+"708": 
+  :state: LA
+  :city: Baton Rouge
+"710": 
+  :state: LA
+  :city: Shreveport
+"711": 
+  :state: LA
+  :city: Shreveport
+"712": 
+  :state: LA
+  :city: Monroe
+"713": 
+  :state: LA
+  :city: Alexandria
+"714": 
+  :state: LA
+  :city: Alexandria
+"716": 
+  :state: AR
+  :city: Pine Bluff
+"717": 
+  :state: AR
+  :city: Camden
+"718": 
+  :state: AR
+  :city: Texarkana (TX)
+"719": 
+  :state: AR
+  :city: Hot Sprs. N.P.
+"720": 
+  :state: AR
+  :city: Little Rock
+"721": 
+  :state: AR
+  :city: Little Rock
+"722": 
+  :state: AR
+  :city: Little Rock
+"723": 
+  :state: AR
+  :city: Memphis (TN)
+"724": 
+  :state: AR
+  :city: Jonesboro
+"725": 
+  :state: AR
+  :city: Batesville
+"726": 
+  :state: AR
+  :city: Harrison
+"727": 
+  :state: AR
+  :city: Fayetteville
+"728": 
+  :state: AR
+  :city: Russellville
+"729": 
+  :state: AR
+  :city: Fort Smith
+"730": 
+  :state: OK
+  :city: Oklahoma City
+"731": 
+  :state: OK
+  :city: Oklahoma City
+"733": 
+  :state: TX
+  :city: Austin
+"734": 
+  :state: OK
+  :city: Ardmore
+"735": 
+  :state: OK
+  :city: Lawton
+"736": 
+  :state: OK
+  :city: Clinton
+"737": 
+  :state: OK
+  :city: Enid
+"738": 
+  :state: OK
+  :city: Woodward
+"739": 
+  :state: OK
+  :city: Liberal (KS)
+"740": 
+  :state: OK
+  :city: Tulsa
+"741": 
+  :state: OK
+  :city: Tulsa
+"743": 
+  :state: OK
+  :city: Tulsa
+"744": 
+  :state: OK
+  :city: Muskogee
+"745": 
+  :state: OK
+  :city: McAlester
+"746": 
+  :state: OK
+  :city: Ponca City
+"747": 
+  :state: OK
+  :city: Durant
+"748": 
+  :state: OK
+  :city: Shawnee
+"749": 
+  :state: OK
+  :city: Poteau
+"750": 
+  :state: TX
+  :city: North Area
+"751": 
+  :state: TX
+  :city: Dallas
+"752": 
+  :state: TX
+  :city: Dallas
+"753": 
+  :state: TX
+  :city: Dallas
+"754": 
+  :state: TX
+  :city: Greenville
+"755": 
+  :state: TX
+  :city: Texarkana
+"756": 
+  :state: TX
+  :city: Longview
+"757": 
+  :state: TX
+  :city: Tyler
+"758": 
+  :state: TX
+  :city: Palestine
+"759": 
+  :state: TX
+  :city: Lufkin
+"760": 
+  :state: TX
+  :city: Fort Worth
+"761": 
+  :state: TX
+  :city: Fort Worth
+"762": 
+  :state: TX
+  :city: Fort Worth
+"763": 
+  :state: TX
+  :city: Wichita Falls
+"764": 
+  :state: TX
+  :city: Fort Worth
+"765": 
+  :state: TX
+  :city: Waco
+"766": 
+  :state: TX
+  :city: Waco
+"767": 
+  :state: TX
+  :city: Waco
+"768": 
+  :state: TX
+  :city: Abilene
+"769": 
+  :state: TX
+  :city: Midland
+"770": 
+  :state: TX
+  :city: Houston
+"772": 
+  :state: TX
+  :city: Houston
+"773": 
+  :state: TX
+  :city: North Houston
+"774": 
+  :state: TX
+  :city: Katy
+"775": 
+  :state: TX
+  :city: North Houston
+"776": 
+  :state: TX
+  :city: Beaumont
+"777": 
+  :state: TX
+  :city: Beaumont
+"778": 
+  :state: TX
+  :city: Bryan
+"779": 
+  :state: TX
+  :city: Victoria
+"780": 
+  :state: TX
+  :city: Laredo
+"781": 
+  :state: TX
+  :city: San Antonio
+"782": 
+  :state: TX
+  :city: San Antonio
+"783": 
+  :state: TX
+  :city: Corpus Christi
+"784": 
+  :state: TX
+  :city: Corpus Christi
+"785": 
+  :state: TX
+  :city: McAllen
+"786": 
+  :state: TX
+  :city: Austin
+"787": 
+  :state: TX
+  :city: Austin
+"788": 
+  :state: TX
+  :city: San Antonio
+"789": 
+  :state: TX
+  :city: Austin
+"790": 
+  :state: TX
+  :city: Amarillo
+"791": 
+  :state: TX
+  :city: Amarillo
+"792": 
+  :state: TX
+  :city: Childress
+"793": 
+  :state: TX
+  :city: Lubbock
+"794": 
+  :state: TX
+  :city: Lubbock
+"795": 
+  :state: TX
+  :city: Abilene
+"796": 
+  :state: TX
+  :city: Abilene
+"797": 
+  :state: TX
+  :city: Midland
+"798": 
+  :state: TX
+  :city: El Paso
+"799": 
+  :state: TX
+  :city: El Paso
+"800": 
+  :state: CO
+  :city: Denver
+"801": 
+  :state: CO
+  :city: Denver
+"802": 
+  :state: CO
+  :city: Denver
+"803": 
+  :state: CO
+  :city: Boulder
+"804": 
+  :state: CO
+  :city: Denver
+"805": 
+  :state: CO
+  :city: Longmont
+"806": 
+  :state: CO
+  :city: Brighton
+"807": 
+  :state: CO
+  :city: Brighton
+"808": 
+  :state: CO
+  :city: Col. Springs
+"809": 
+  :state: CO
+  :city: Col. Springs
+"810": 
+  :state: CO
+  :city: Pueblo
+"811": 
+  :state: CO
+  :city: Alamosa
+"812": 
+  :state: CO
+  :city: Salida
+"813": 
+  :state: CO
+  :city: Durango
+"814": 
+  :state: CO
+  :city: Grand Junction
+"815": 
+  :state: CO
+  :city: Grand Junction
+"816": 
+  :state: CO
+  :city: Glenwood Springs
+"820": 
+  :state: WY
+  :city: Cheyenne
+"821": 
+  :state: WY
+  :city: Yellowstone N.P.
+"822": 
+  :state: WY
+  :city: Wheatland
+"823": 
+  :state: WY
+  :city: Rawlins
+"824": 
+  :state: WY
+  :city: Worland
+"825": 
+  :state: WY
+  :city: Riverton
+"826": 
+  :state: WY
+  :city: Casper
+"827": 
+  :state: WY
+  :city: Gillette
+"828": 
+  :state: WY
+  :city: Sheridan
+"829": 
+  :state: WY
+  :city: Rock Springs
+"830": 
+  :state: WY
+  :city: Rock Springs
+"831": 
+  :state: WY
+  :city: Rock Springs
+"832": 
+  :state: ID
+  :city: Pocatello
+"833": 
+  :state: ID
+  :city: Twin Falls
+"834": 
+  :state: ID
+  :city: Pocatello
+"835": 
+  :state: ID
+  :city: Lewiston
+"836": 
+  :state: ID
+  :city: Boise
+"837": 
+  :state: ID
+  :city: Boise
+"838": 
+  :state: ID
+  :city: Spokane (WA)
+"840": 
+  :state: UT
+  :city: Salt Lake City
+"841": 
+  :state: UT
+  :city: Salt Lake City
+"842": 
+  :state: UT
+  :city: Salt Lake City
+"843": 
+  :state: UT
+  :city: Salt Lake City
+"844": 
+  :state: UT
+  :city: Ogden
+"845": 
+  :state: UT
+  :city: Provo
+"846": 
+  :state: UT
+  :city: Provo
+"847": 
+  :state: UT
+  :city: Provo
+"850": 
+  :state: AZ
+  :city: Phoenix
+"851": 
+  :state: AZ
+  :city: Phoenix
+"852": 
+  :state: AZ
+  :city: Phoenix
+"853": 
+  :state: AZ
+  :city: Phoenix
+"855": 
+  :state: AZ
+  :city: Globe
+"856": 
+  :state: AZ
+  :city: Tucson
+"857": 
+  :state: AZ
+  :city: Tucson
+"859": 
+  :state: AZ
+  :city: Show Low
+"860": 
+  :state: AZ
+  :city: Flagstaff
+"863": 
+  :state: AZ
+  :city: Prescott
+"864": 
+  :state: AZ
+  :city: Kingman
+"865": 
+  :state: AZ
+  :city: Gallup (NM)
+"870": 
+  :state: NM
+  :city: Albuquerque
+"871": 
+  :state: NM
+  :city: Albuquerque
+"872": 
+  :state: NM
+  :city: Albuquerque
+"873": 
+  :state: NM
+  :city: Gallup
+"874": 
+  :state: NM
+  :city: Farmington
+"875": 
+  :state: NM
+  :city: Albuquerque
+"877": 
+  :state: NM
+  :city: Las Vegas
+"878": 
+  :state: NM
+  :city: Socorro
+"879": 
+  :state: NM
+  :city: Truth or Consequences
+"880": 
+  :state: NM
+  :city: Las Cruces
+"881": 
+  :state: NM
+  :city: Clovis
+"882": 
+  :state: NM
+  :city: Roswell
+"883": 
+  :state: NM
+  :city: Carrizozo
+"884": 
+  :state: NM
+  :city: Tucumcari
+"885": 
+  :state: TX
+  :city: El Paso
+"889": 
+  :state: NV
+  :city: Las Vegas
+"890": 
+  :state: NV
+  :city: Las Vegas
+"891": 
+  :state: NV
+  :city: Las Vegas
+"893": 
+  :state: NV
+  :city: Ely
+"894": 
+  :state: NV
+  :city: Reno
+"895": 
+  :state: NV
+  :city: Reno
+"897": 
+  :state: NV
+  :city: Carson City
+"898": 
+  :state: NV
+  :city: Elko
+"900": 
+  :state: CA
+  :city: Los Angeles
+"901": 
+  :state: CA
+  :city: Los Angeles
+"902": 
+  :state: CA
+  :city: Inglewood
+"903": 
+  :state: CA
+  :city: Inglewood
+"904": 
+  :state: CA
+  :city: Santa Monica
+"905": 
+  :state: CA
+  :city: Torrance
+"906": 
+  :state: CA
+  :city: Long Beach
+"907": 
+  :state: CA
+  :city: Long Beach
+"908": 
+  :state: CA
+  :city: Long Beach
+"910": 
+  :state: CA
+  :city: Pasadena
+"911": 
+  :state: CA
+  :city: Pasadena
+"912": 
+  :state: CA
+  :city: Glendale
+"913": 
+  :state: CA
+  :city: Van Nuys
+"914": 
+  :state: CA
+  :city: Van Nuys
+"915": 
+  :state: CA
+  :city: Burbank
+"916": 
+  :state: CA
+  :city: North Hollywood
+"917": 
+  :state: CA
+  :city: Industry
+"918": 
+  :state: CA
+  :city: Industry
+"919": 
+  :state: CA
+  :city: San Diego
+"920": 
+  :state: CA
+  :city: San Diego
+"921": 
+  :state: CA
+  :city: San Diego
+"922": 
+  :state: CA
+  :city: Palm Springs
+"923": 
+  :state: CA
+  :city: San Bernardino
+"924": 
+  :state: CA
+  :city: San Bernardino
+"925": 
+  :state: CA
+  :city: Riverside
+"926": 
+  :state: CA
+  :city: Santa Ana
+"927": 
+  :state: CA
+  :city: Santa Ana
+"928": 
+  :state: CA
+  :city: Anaheim
+"930": 
+  :state: CA
+  :city: Oxnard
+"931": 
+  :state: CA
+  :city: Santa Barbara
+"932": 
+  :state: CA
+  :city: Bakersfield
+"933": 
+  :state: CA
+  :city: Bakersfield
+"934": 
+  :state: CA
+  :city: Santa Barbara
+"935": 
+  :state: CA
+  :city: Mojave
+"936": 
+  :state: CA
+  :city: Fresno
+"937": 
+  :state: CA
+  :city: Fresno
+"938": 
+  :state: CA
+  :city: Fresno
+"939": 
+  :state: CA
+  :city: Salinas
+"940": 
+  :state: CA
+  :city: San Francisco
+"941": 
+  :state: CA
+  :city: San Francisco
+"942": 
+  :state: CA
+  :city: Sacramento
+"943": 
+  :state: CA
+  :city: Palo Alto
+"944": 
+  :state: CA
+  :city: San Mateo
+"945": 
+  :state: CA
+  :city: Oakland
+"946": 
+  :state: CA
+  :city: Oakland
+"947": 
+  :state: CA
+  :city: Berkeley
+"948": 
+  :state: CA
+  :city: Richmond
+"949": 
+  :state: CA
+  :city: North Bay
+"950": 
+  :state: CA
+  :city: San Jose
+"951": 
+  :state: CA
+  :city: San Jose
+"952": 
+  :state: CA
+  :city: Stockton
+"953": 
+  :state: CA
+  :city: Stockton
+"954": 
+  :state: CA
+  :city: North Bay
+"955": 
+  :state: CA
+  :city: Eureka
+"956": 
+  :state: CA
+  :city: Sacramento
+"957": 
+  :state: CA
+  :city: Sacramento
+"958": 
+  :state: CA
+  :city: Sacramento
+"959": 
+  :state: CA
+  :city: Marysville
+"960": 
+  :state: CA
+  :city: Redding
+"961": 
+  :state: CA
+  :city: Reno (NV)
+"962": 
+  :state: AP
+  :city: Military
+"963": 
+  :state: AP
+  :city: Military
+"964": 
+  :state: AP
+  :city: Military
+"965": 
+  :state: AP
+  :city: Military
+"966": 
+  :state: AP
+  :city: Military
+"967": 
+  :state: HI
+  :city: Honolulu
+"968": 
+  :state: HI
+  :city: Honolulu
+"969": 
+  :state: GU
+  :city: Barrigada
+"970": 
+  :state: OR
+  :city: Portland
+"971": 
+  :state: OR
+  :city: Portland
+"972": 
+  :state: OR
+  :city: Portland
+"973": 
+  :state: OR
+  :city: Salem
+"974": 
+  :state: OR
+  :city: Eugene
+"975": 
+  :state: OR
+  :city: Medford
+"976": 
+  :state: OR
+  :city: Klamath Falls
+"977": 
+  :state: OR
+  :city: Bend
+"978": 
+  :state: OR
+  :city: Pendleton
+"979": 
+  :state: OR
+  :city: Boise (ID)
+"980": 
+  :state: WA
+  :city: Seattle
+"981": 
+  :state: WA
+  :city: Seattle
+"982": 
+  :state: WA
+  :city: Everett
+"983": 
+  :state: WA
+  :city: Tacoma
+"984": 
+  :state: WA
+  :city: Tacoma
+"985": 
+  :state: WA
+  :city: Olympia
+"986": 
+  :state: WA
+  :city: Portland (OR)
+"988": 
+  :state: WA
+  :city: Wenatchee
+"989": 
+  :state: WA
+  :city: Yakima
+"990": 
+  :state: WA
+  :city: Spokane
+"991": 
+  :state: WA
+  :city: Spokane
+"992": 
+  :state: WA
+  :city: Spokane
+"993": 
+  :state: WA
+  :city: Pasco
+"994": 
+  :state: WA
+  :city: Lewiston (ID)
+"995": 
+  :state: AK
+  :city: Anchorage
+"996": 
+  :state: AK
+  :city: Anchorage
+"997": 
+  :state: AK
+  :city: Fairbanks
+"998": 
+  :state: AK
+  :city: Juneau
+"999": 
+  :state: AK
+  :city: Ketchikan
