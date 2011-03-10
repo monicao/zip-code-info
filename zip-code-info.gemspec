@@ -29,7 +29,8 @@ Gem::Specification.new do |s|
     "dev/generate_data.rb",
     "lib/zip-code-info.rb",
     "spec/spec_helper.rb",
-    "spec/zip-code-info_spec.rb"
+    "spec/zip-code-info_spec.rb",
+    "zip-code-info.gemspec"
   ]
   s.homepage = %q{http://github.com/monicao/zip-code-info}
   s.licenses = ["MIT"]
