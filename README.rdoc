@@ -8,7 +8,7 @@ The zip code data has been taken from http://en.wikipedia.org/wiki/ZIP_code_pref
 
 In your Gemfile
 
-	gem zip-code-info
+	gem "zip-code-info"
 
 The code runs out of a Singleton class. Right now you can call these two methods.
 
