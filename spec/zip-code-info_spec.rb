@@ -39,6 +39,11 @@ describe "ZipCodeInfo" do
       zip = ZipCodeInfo.instance.scf_city_for
       zip.should be_false
     end
+
+    it "should handle an invalid zip code that has a valid format - 00000" do
+      zip = ZipCodeInfo.instance.scf_city_for("00000")
+      zip.should be_false
+    end
   
     it "should handle an invalid zip code - too long" do 
       zip = ZipCodeInfo.instance.scf_city_for("123456")
