@@ -12,16 +12,18 @@ In your Gemfile
 
 The code runs out of a Singleton class. Right now you can call these two methods.
 
-	ZipCodeInfo.instance.state_for "99163"
-	#=> WA
+```ruby
+  ZipCodeInfo.instance.state_for '99163'
+  #=> WA
+```
 
-	ZipCodeInfo.instance.scf_city_for "99163"
-	#=> Spokane
+```ruby
+  ZipCodeInfo.instance.scf_city_for '99163'
+  #=> Spokane
+```
 
 ### Limitations
 
 * The city returned is the city where the USPS Sectional Center Facility (SCF) is located.
 * Sometimes the state that a zip code is bound to for USPS is different from the actual state the zip code is in. There are plans to provide both states.
-
-
 
