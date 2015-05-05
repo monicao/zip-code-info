@@ -20,6 +20,11 @@ describe 'ZipCodeInfo' do
       expect(city).to eql 'Queens &West Nassau'
     end
 
+    it 'handles extended zip codes' do
+      city = ZipCodeInfo.instance.scf_city_for '99100-1234'
+      expect(city).to eql 'Spokane'
+    end
+
     it 'returns false if zip code is missing' do
       city = ZipCodeInfo.instance.scf_city_for
       expect(city).to be false

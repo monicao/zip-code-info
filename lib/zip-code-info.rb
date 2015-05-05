@@ -25,7 +25,7 @@ class ZipCodeInfo
 
   def assign_and_validate_code(code)
     @code = code.to_s
-    return @code.match(/^[0-9]{5}$/i) && @data.has_key?(code_to_key)
+    return @code.match(/^\d{5}(-\d{4})?$/i) && @data.has_key?(code_to_key)
   end
 
   # To look up information we only need the first three digits of the zip code
