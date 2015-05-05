@@ -1,6 +1,6 @@
 ## zip-code-info
 
-This gem returns the state and city of the Sectional Center Facility for a given zip code. It does not use an external service.
+This gem returns the state and city of the Sectional Center Facility for a given zip code. It does not use an external API. It looks up the zip code in a yml file.
 
 The zip code data has been taken from [http://en.wikipedia.org/wiki/ZIP_code_prefixes](http://en.wikipedia.org/wiki/ZIP_code_prefixes)
 
