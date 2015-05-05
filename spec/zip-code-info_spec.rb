@@ -1,4 +1,4 @@
-require File.expand_path(File.dirname(__FILE__) + '/spec_helper')
+require_relative 'spec_helper'
 
 describe 'ZipCodeInfo' do
 
@@ -31,21 +31,21 @@ describe 'ZipCodeInfo' do
     end
 
     it 'returns false if zip code is invalid' do
-      zip = ZipCodeInfo.instance.scf_city_for('123456')
-      expect(zip).to be false
+      city = ZipCodeInfo.instance.scf_city_for('123456')
+      expect(city).to be false
     end
   end
 
   describe '#state_for' do
 
     it 'allows zip code as string' do
-      zip = ZipCodeInfo.instance.state_for '60699'
-      expect(zip).to eql 'IL'
+      state = ZipCodeInfo.instance.state_for '60699'
+      expect(state).to eql 'IL'
     end
 
     it 'allows zip code as integer' do
-      zip = ZipCodeInfo.instance.state_for 60699
-      expect(zip).to eql 'IL'
+      state = ZipCodeInfo.instance.state_for 60699
+      expect(state).to eql 'IL'
     end
   end
 
